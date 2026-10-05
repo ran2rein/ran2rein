@@ -7,9 +7,13 @@
   <img width="150" height="20" alt="blinkiesCafe-86" src="https://github.com/user-attachments/assets/0e50e5a1-4885-4fcf-bc2a-5472d9095443" />
 <br>
 <br>
-us btw
+us btw [[click!!!]]
+<br>
 <div align="center">
-  <img width="200" height="200" alt="_3__7-removebg-preview" src="https://github.com/user-attachments/assets/6cc298ca-1a13-4f1e-b167-dd44ab024060" />
-  <img width="200" height="200" alt="venomshank_block_tales-removebg-preview" src="https://github.com/user-attachments/assets/e0cd5e4f-2f7d-495d-a94e-2c5006bb08be" />
+  <a href="https://github.com/WhiteLament"><img width="150" height="150" alt="venomshank_block_tales-removebg-preview" src="https://github.com/user-attachments/assets/60b0712f-dad6-4da1-ab6c-9ef118697735" /></a>
+  <a href="https://github.com/tembluudud"><img width="150" height="150" alt="_3__7-removebg-preview" src="https://github.com/user-attachments/assets/372c5aeb-cacd-4074-8b24-a582a1dd8aa9"/></a>
+
+
+
 
 
